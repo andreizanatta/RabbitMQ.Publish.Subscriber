@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FDD477-99D4-4923-81C7-5DD8A782FE4F}|RabbittMQCliente.Marketing.API\\RabbittMQCliente.Marketing.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.marketing.api\\subscribers\\customercreatedsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FDD477-99D4-4923-81C7-5DD8A782FE4F}|RabbittMQCliente.Marketing.API\\RabbittMQCliente.Marketing.API.csproj|solutionrelative:rabbittmqcliente.marketing.api\\subscribers\\customercreatedsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FDD477-99D4-4923-81C7-5DD8A782FE4F}|RabbittMQCliente.Marketing.API\\RabbittMQCliente.Marketing.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.marketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FDD477-99D4-4923-81C7-5DD8A782FE4F}|RabbittMQCliente.Marketing.API\\RabbittMQCliente.Marketing.API.csproj|solutionrelative:rabbittmqcliente.marketing.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.customers.api\\bus\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|solutionrelative:rabbittmqcliente.customers.api\\bus\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.customers.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|solutionrelative:rabbittmqcliente.customers.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.customers.api\\bus\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|solutionrelative:rabbittmqcliente.customers.api\\bus\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\rabbittmqcliente.customers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E442F433-2BA0-4F66-AD15-06852C518BC1}|RabbittMQCliente.Customers.API\\RabbittMQCliente.Customers.API.csproj|solutionrelative:rabbittmqcliente.customers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E2AD21-7221-4432-8036-06373C8DFF1B}|ConsoleAppRabbitMQ.Client\\RabbitMQClient.Console.csproj|c:\\estudo\\aspnet\\mentoria\\curso-rabbitmq\\consoleapprabbitmq\\consoleapprabbitmq.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E2AD21-7221-4432-8036-06373C8DFF1B}|ConsoleAppRabbitMQ.Client\\RabbitMQClient.Console.csproj|solutionrelative:consoleapprabbitmq.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Marketing.API\\Program.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Marketing.API\\Program.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Marketing.API\\Program.cs",
+              "RelativeToolTip": "RabbittMQCliente.Marketing.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:03:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCreatedSubscriber.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Marketing.API\\Subscribers\\CustomerCreatedSubscriber.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Marketing.API\\Subscribers\\CustomerCreatedSubscriber.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Marketing.API\\Subscribers\\CustomerCreatedSubscriber.cs",
+              "RelativeToolTip": "RabbittMQCliente.Marketing.API\\Subscribers\\CustomerCreatedSubscriber.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:48:50.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Program.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Customers.API\\Program.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Program.cs",
+              "RelativeToolTip": "RabbittMQCliente.Customers.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:11:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\ConsoleAppRabbitMQ.Client\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppRabbitMQ.Client\\Program.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\ConsoleAppRabbitMQ.Client\\Program.cs",
+              "RelativeToolTip": "ConsoleAppRabbitMQ.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:05:26.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Bus\\BusService.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Customers.API\\Bus\\BusService.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Bus\\BusService.cs",
+              "RelativeToolTip": "RabbittMQCliente.Customers.API\\Bus\\BusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:03:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusService.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Bus\\IBusService.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Customers.API\\Bus\\IBusService.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Bus\\IBusService.cs",
+              "RelativeToolTip": "RabbittMQCliente.Customers.API\\Bus\\IBusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:01:48.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "RabbittMQCliente.Customers.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Estudo\\ASPNET\\Mentoria\\Curso-RabbitMQ\\ConsoleAppRabbitMQ\\RabbittMQCliente.Customers.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "RabbittMQCliente.Customers.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:56:25.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

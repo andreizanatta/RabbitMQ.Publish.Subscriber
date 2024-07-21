@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQClient.Console", "ConsoleAppRabbitMQ.Client\RabbitMQClient.Console.csproj", "{50E2AD21-7221-4432-8036-06373C8DFF1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQCliente", "RabbitMQCliente", "{C42BAA26-57E7-4DCD-BFBC-430CDE088EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbittMQCliente.Marketing.API", "RabbittMQCliente.Marketing.API\RabbittMQCliente.Marketing.API.csproj", "{51FDD477-99D4-4923-81C7-5DD8A782FE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbittMQCliente.Customers.API", "RabbittMQCliente.Customers.API\RabbittMQCliente.Customers.API.csproj", "{E442F433-2BA0-4F66-AD15-06852C518BC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{39D01BD2-84CD-41F9-A717-B520F7B0309B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingEvents.Shared", "..\curso-mensageria-rabbitmq-aspnetcore-pre-gravacao\MessagingEvents.Shared\MessagingEvents.Shared.csproj", "{0DFC89EE-C27C-4BB8-8959-5501CA7FA513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E2AD21-7221-4432-8036-06373C8DFF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E2AD21-7221-4432-8036-06373C8DFF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E2AD21-7221-4432-8036-06373C8DFF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E2AD21-7221-4432-8036-06373C8DFF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FDD477-99D4-4923-81C7-5DD8A782FE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FDD477-99D4-4923-81C7-5DD8A782FE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FDD477-99D4-4923-81C7-5DD8A782FE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FDD477-99D4-4923-81C7-5DD8A782FE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E442F433-2BA0-4F66-AD15-06852C518BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E442F433-2BA0-4F66-AD15-06852C518BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E442F433-2BA0-4F66-AD15-06852C518BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E442F433-2BA0-4F66-AD15-06852C518BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFC89EE-C27C-4BB8-8959-5501CA7FA513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFC89EE-C27C-4BB8-8959-5501CA7FA513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFC89EE-C27C-4BB8-8959-5501CA7FA513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFC89EE-C27C-4BB8-8959-5501CA7FA513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50E2AD21-7221-4432-8036-06373C8DFF1B} = {C42BAA26-57E7-4DCD-BFBC-430CDE088EEB}
+		{51FDD477-99D4-4923-81C7-5DD8A782FE4F} = {C42BAA26-57E7-4DCD-BFBC-430CDE088EEB}
+		{E442F433-2BA0-4F66-AD15-06852C518BC1} = {C42BAA26-57E7-4DCD-BFBC-430CDE088EEB}
+		{0DFC89EE-C27C-4BB8-8959-5501CA7FA513} = {39D01BD2-84CD-41F9-A717-B520F7B0309B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC54BDA1-301A-4412-B6B6-7A3AA3BA2C02}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\ConsoleAppRabbitMQ.Client.exe
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\ConsoleAppRabbitMQ.Client.deps.json
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\ConsoleAppRabbitMQ.Client.runtimeconfig.json
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\ConsoleAppRabbitMQ.Client.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\ConsoleAppRabbitMQ.Client.pdb
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.csproj.AssemblyReference.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.AssemblyInfo.cs
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleA.E44EF0DE.Up2Date
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\refint\ConsoleAppRabbitMQ.Client.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.pdb
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ConsoleAppRabbitMQ.Client.genruntimeconfig.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ.Client\obj\Debug\net8.0\ref\ConsoleAppRabbitMQ.Client.dll

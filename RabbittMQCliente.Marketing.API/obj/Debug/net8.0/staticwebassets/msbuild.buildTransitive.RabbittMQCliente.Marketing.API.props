@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RabbittMQCliente.Marketing.API.props" />
+</Project>
